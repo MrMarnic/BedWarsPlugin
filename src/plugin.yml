@@ -1,0 +1,11 @@
+name: BedWars
+version: 1.0.0
+description: This is a BedWars plugin
+author: MrMarnic
+api-version: "1.14"
+
+main: me.marnic.bedwars.main.BedWars
+
+commands:
+  bw:
+    description: Basic bw command
